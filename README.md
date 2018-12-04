@@ -1,4 +1,4 @@
-# Vampire
+# Vampyre
 My LudumDare 43 entry! I hope you enjoy.
 
 OBS: Please don't run this in fullscreen mode.
